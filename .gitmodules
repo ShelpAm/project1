@@ -1,3 +1,3 @@
 [submodule "deps/elements"]
 	path = deps/elements
-	url = git@github.com:cycfi/elements.git
+	url = https://github.com/cycfi/elements.git
